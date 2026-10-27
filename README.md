@@ -90,6 +90,8 @@ Through this project, I gained experience with:
 ✅ Problem-solving and debugging  
 ✅ Building interactive command-line applications
 
+<img width="548" height="229" alt="image" src="https://github.com/user-attachments/assets/58ad0d9c-ebbb-4f6c-9885-6a8fbaac5388" />
+
 ---
 
 ## 🌱 Next Steps
